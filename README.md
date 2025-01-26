@@ -13,7 +13,7 @@ This project focuses on **data preprocessing** for a house price prediction data
 
 ## 🛠 Steps Performed
 
-### 1️⃣ Data Loading 💅
+### 1️⃣ Data Loading ⚙
 
 - The dataset is loaded using `pandas.read_csv()`.
 - Initial exploration with `df.shape`, `df.info()`, and `df.describe()`.
@@ -40,7 +40,7 @@ This project focuses on **data preprocessing** for a house price prediction data
 - Used Pandas plotting functions to analyze distributions:
   - `bar`, `barh`, `pie`, `density` plots for categorical features.
 
-### 5️⃣ Data Augmentation 🌱 (If Applied)
+### 5️⃣ Data Augmentation 🌱 
 
 - Synthetic data generation through transformations.
 
